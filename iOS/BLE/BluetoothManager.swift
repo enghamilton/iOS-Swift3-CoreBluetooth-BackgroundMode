@@ -2,7 +2,8 @@
 //  BluetoothManager.swift
 //  BLE
 //
-//  Created by Leonardo Cardoso on 09/02/2017.
+//  Credits to Leonardo Cardoso on 09/02/2017.
+//  Implementation on developing by Hamilton Kamiya on 20200312
 //  Copyright © 2017 leocardz.com. All rights reserved.
 //
 
